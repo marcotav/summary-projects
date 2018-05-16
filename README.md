@@ -11,7 +11,7 @@ This is a list of links to projects I've completed recently:
 
 - Analysis of outcomes in sports competitions using tree-based machine learning algorithms [[**Description**]](https://github.com/marcotav/machine-learning-classification-projects/blob/master/tennis/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/tennis/notebooks/Final_Project_Marco_Tavora-DATNYC41_GA.ipynb)
 
-- Recurrent Neural Networks (LSTMs) applied to Bitcoin price data (in progress)[[**Description**]] (https://github.com/marcotav/deep-learning/blob/master/bitcoin/README.md) [[**Code**]] (http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/bitcoin/notebooks/deep-learning-LSTM-bitcoins.ipynb)
+- Recurrent Neural Networks (LSTMs) applied to Bitcoin price data [[**Description**]](https://github.com/marcotav/deep-learning/blob/master/bitcoin/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/bitcoin/notebooks/deep-learning-LSTM-bitcoins.ipynb)
 
 
 
