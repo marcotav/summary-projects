@@ -17,10 +17,11 @@ This is a list of links to projects I've completed recently:
 
 - Predictive modeling of the likelihood that an online ad will be clicked (the click-through-rate) [[**Description**]](https://github.com/marcotav/deep-learning/blob/master/keras-tf-tutorial/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/click-prediction/notebooks/click-predictive-model.ipynb)
 
+- Analysis of the opioids overdose crisis in the US (early stages)[[**Description**]](https://github.com/marcotav/machine-learning-classification-projects/blob/master/analysis-of-opioid-prescription-problem/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/analysis-of-opioid-prescription-problem/notebooks/opioid-prescription-problem.ipynb)  
 
-- Analysis of the opioids overdose crisis in the US (early stages)
-- Topic modeling (Latent Dirichlet Allocation or LDA) applied to a corpus of research papers
-- Sentiment analysis "in reverse" applied to movie reviews
+- Topic modeling (Latent Dirichlet Allocation or LDA) applied to a corpus of research papers [[**Description**]](http://nbviewer.jupyter.org/github/marcotav/unsupervised-learning/blob/master/topic-modeling/notebooks/topic-modeling-lda.ipynb)[[**Code**]](https://github.com/marcotav/unsupervised-learning/blob/master/topic-modeling/README.md)
+
+- Sentiment analysis "in reverse" applied to movie reviews [[**Description**]](https://github.com/marcotav/natural-language-processing/blob/master/sentiment-analysis/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/natural-language-processing/blob/master/sentiment-analysis/notebooks/sentiment-analysis.ipynb) 
 - A study of the declining trend of participation rates in standardized tests 
 - An exploratory analysis of the West Nile Virus outbreak in the US
 - Predictions of customer churning rate for a mobile company (in progress)
