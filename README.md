@@ -6,9 +6,15 @@ This is a list of links to projects I've completed recently:
 
 - A comprehensive analysis of retail expansion strategies using regularized regressors [[**Description**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-regression-models/blob/master/retail/notebooks/retail-recommendations.ipynb)[[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-regression-models/blob/master/retail/notebooks/retail-recommendations.ipynb).
 
-- Application of classification models and natural language processing to a dataset of social media comments
-- Analysis of outcomes in sports competitions using tree-based machine learning algorithms
-- Recurrent Neural Networks (LSTMs) applied to Bitcoin price data (in progress)
+- Application of classification models and natural language processing to a dataset of social media comments [[**Description**]](https://github.com/marcotav/machine-learning-classification-projects/blob/master/predicting-number-of-comments-on-reddit-using-random-forest-classifier/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/predicting-number-of-comments-on-reddit-using-random-forest-classifier/notebooks/project-3-marco-tavora.ipynb)
+
+
+- Analysis of outcomes in sports competitions using tree-based machine learning algorithms [[**Description**]](https://github.com/marcotav/machine-learning-classification-projects/blob/master/tennis/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/tennis/notebooks/Final_Project_Marco_Tavora-DATNYC41_GA.ipynb)
+
+- Recurrent Neural Networks (LSTMs) applied to Bitcoin price data (in progress)[[**Description**]] (https://github.com/marcotav/deep-learning/blob/master/bitcoin/README.md) [[**Code**]] (http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/bitcoin/notebooks/deep-learning-LSTM-bitcoins.ipynb)
+
+
+
 - A simple tutorial about deep learning using both Keras and TensorFlow (in progress)
 - Predictive modeling of the likelihood that an online ad will be clicked (the click-through-rate)
 - Analysis of the opioids overdose crisis in the US (early stages)
