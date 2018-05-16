@@ -1,10 +1,11 @@
-## Recents Projects
+## [Recents Projects](https://marcotavora.me/data-science-projects/)
 
 This is a list of links to projects I've completed recently:
 
 - Application to the fine arts of deep learning using image recognition techniques (convolutional neural nets)[[**Description**]](https://github.com/marcotav/deep-learning/blob/master/painters-identification/README.md)[[**Code**]](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb).
 
-- A comprehensive analysis of retail expansion strategies using regularized regressors
+- A comprehensive analysis of retail expansion strategies using regularized regressors [[**Description**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-regression-models/blob/master/retail/notebooks/retail-recommendations.ipynb)[[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-regression-models/blob/master/retail/notebooks/retail-recommendations.ipynb).
+
 - Application of classification models and natural language processing to a dataset of social media comments
 - Analysis of outcomes in sports competitions using tree-based machine learning algorithms
 - Recurrent Neural Networks (LSTMs) applied to Bitcoin price data (in progress)
