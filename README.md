@@ -13,10 +13,11 @@ This is a list of links to projects I've completed recently:
 
 - Recurrent Neural Networks (LSTMs) applied to Bitcoin price data [[**Description**]](https://github.com/marcotav/deep-learning/blob/master/bitcoin/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/bitcoin/notebooks/deep-learning-LSTM-bitcoins.ipynb)
 
+- A simple tutorial about deep learning using both Keras and TensorFlow (in progress) [[**Description**]](https://github.com/marcotav/deep-learning/blob/master/keras-tf-tutorial/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/keras-tf-tutorial/notebooks/neural-nets-digits-mnist.ipynb)
+
+- Predictive modeling of the likelihood that an online ad will be clicked (the click-through-rate) [[**Description**]](https://github.com/marcotav/deep-learning/blob/master/keras-tf-tutorial/README.md) [[**Code**]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/click-prediction/notebooks/click-predictive-model.ipynb)
 
 
-- A simple tutorial about deep learning using both Keras and TensorFlow (in progress)
-- Predictive modeling of the likelihood that an online ad will be clicked (the click-through-rate)
 - Analysis of the opioids overdose crisis in the US (early stages)
 - Topic modeling (Latent Dirichlet Allocation or LDA) applied to a corpus of research papers
 - Sentiment analysis "in reverse" applied to movie reviews
